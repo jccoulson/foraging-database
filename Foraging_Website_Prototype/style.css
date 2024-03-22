@@ -1,0 +1,75 @@
+.header {
+    background-color: rgba(193, 221, 220, 0.5);
+    border-style: double;
+    padding: 15px;
+    text-align: center;
+  }
+ 
+
+body.login-page{
+    background:linear-gradient(rgb(0, 0, 50, 0.5), rgba(0,0,50,0.5)),url(pexels-eberhard-grossgasteiger-1287145.jpg);
+    background-size:cover;
+    background-position: center;
+}
+
+body.account-creation{
+    background:linear-gradient(rgb(0, 0, 50, 0.5), rgba(0,0,50,0.5)),url(pexels-photo.jpeg);
+    background-size:cover;
+    background-position: center;
+}
+
+body.region-page{
+    background:url(pexels-photo-167699.jpeg);
+    background-size:cover;
+    background-position: center;
+}
+body.add-page{
+    background:linear-gradient(rgb(0, 0, 50, 0.5), rgba(0,0,50,0.5)),url(pexels-eberhard-grossgasteiger-1287145.jpg);
+    background-size:cover;
+    background-position: center;
+   
+}
+
+body.animal-typg{
+    background:linear-gradient(rgb(0, 0, 50, 0.5), rgba(0,0,50,0.5)),url(deer.jpg);
+    background-size:cover;
+    background-position: center;
+   
+}
+
+body.employee-chopg{
+    background:linear-gradient(rgb(0, 0, 50, 0.5), rgba(0,0,50,0.5)),url(milky-way-starry-sky-night-sky-star-956999.jpeg);
+    background-size:cover;
+    background-position: center;
+   
+}
+
+
+
+.region-select{
+    max-width: 700px;
+    float: none ;
+    text-align: center; 
+    margin: 150px auto;
+}
+.region-box{
+    max-width: 1000px;
+    float: none ;
+    text-align: center; 
+    margin: 100px auto;
+}
+.login-box{
+    max-width: 700px;
+    float: none ;
+    text-align: center; 
+    margin: 150px auto;
+}
+.login{
+    background: rgba(193, 221, 220, 0.5);
+    border-style: double;
+    padding: 30px;
+}
+
+
+
+
